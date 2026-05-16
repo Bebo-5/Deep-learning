@@ -151,7 +151,7 @@ These visualizations help monitor model performance during training.
 # Project Structure
 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
+[git clone https://github.com/your-username/your-repository-name.git](https://github.com/Bebo-5/Deep-learning)
 2. Navigate to the Project Folder
 cd your-repository-name
 3. Install Required Libraries
